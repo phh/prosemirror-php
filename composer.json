@@ -47,5 +47,6 @@
         ],
         "test": "phpunit tests --colors=always --verbose --testdox",
         "test-cov": "phpunit tests --colors=always --verbose --testdox --coverage-html tests/Reports"
-    }
+    },
+    "abandoned": "ueberdosis/tiptap-php"
 }
